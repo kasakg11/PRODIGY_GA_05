@@ -18,6 +18,7 @@ To run the project, install the required dependencies:
 
 pip install tensorflow numpy matplotlib
 Clone the repository:
+"C:\Users\kasak\Downloads\NEURAL IMAGE (6).mp4" here is the link 
 
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
